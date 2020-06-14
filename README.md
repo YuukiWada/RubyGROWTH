@@ -1,2 +1,2 @@
 # RubyGROWTH
-ANalysis framework for Gamma-Ray Observation of Winter Thunderclouds
+Analysis framework for Gamma-Ray Observation of Winter Thunderclouds
